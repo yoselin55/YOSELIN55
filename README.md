@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/yoselin-fq-1545033a7/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/yoselin55">
