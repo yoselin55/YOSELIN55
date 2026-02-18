@@ -1,119 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8cdda,100:1d2b64&height=200&section=header&text=Yoselin%20Fabiola%20Flores&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:1d2b64&height=220&section=header&text=Yoselin%20Fabiola%20Flores&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 
-## Software Design & Development Student  
-### Backend • Secure Systems • Database Management  
+## 🛡️Software Design & Development Student  
+### Backend • Frontend • Database Systems • Cybersecurity • AI  
 
 <br>
 
+<img src="https://img.shields.io/badge/Location-Peru-1d2b64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Backend-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-28a745?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/yoselin-fq-1545033a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-1d2b64?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/yoselin55">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/yoss_ffq/">
-  <img src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:yoselin.flores@tecsup.edu.pe">
-  <img src="https://img.shields.io/badge/Email-8e44ad?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 Professional Profile
+## 🌸 Professional Profile
 
-- 🎓 Student of **Software Design & Development – TECSUP**
-- 🏅 Scholarship recipient – **Beca 18**
-- 💻 Strong focus on Backend Development
-- 🗄 Experience in Database Management
-- 🔐 Interest in Cybersecurity & Secure Architectures
-- 🌎 Based in Peru
-
-I am building structured, secure and scalable systems with a production-oriented mindset.
+🎓 Student at **TECSUP**  
+🏅 Scholarship recipient – **Beca 18**  
+💻 Backend & Database oriented  
+🎨 Interested in Frontend Development  
+🔐 Cybersecurity mindset  
+🤖 Applying AI in academic projects  
+🚀 Focused on building scalable and secure production-ready systems  
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
-### 💻 Programming
-- Python
-- Java
-- JavaScript
+## 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,c,cpp" />
+</p>
 
-### 🌐 Web Development
-- HTML
-- CSS
-- Git & GitHub
+---
 
-### 🗄 Database Management
-- MySQL
+## 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+---
+
+## 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+- MySQL (Design & Management)
 - Oracle SQL (SQL*Plus)
-- Database design (ER models)
-- Queries optimization
-- CRUD systems
-- Data validation & integrity
+- Oracle SQL Developer
+- ER Modeling
+- CRUD Systems
+- Query Optimization
+- Data Integrity & Validation
 
 ---
 
-## 📌 Featured Project
+## 🖥 IDEs & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,git,github,linux" />
+</p>
 
-# 🎓 Student Biometric Attendance & Access Control System
+---
+
+# 🔐 Cybersecurity & AI
+
+### 🔐 Cybersecurity
+- Secure Coding Practices
+- SQL Injection Prevention
+- Input Validation & Sanitization
+- Role-Based Access Control
+- Secure Database Handling
+- Biometric Authentication Systems
+
+### 🤖 Artificial Intelligence
+- IA aplicada
+- Integraciones LLM
+- Automatización inteligente
+- Modelos de IA de seguridad
+- Sistemas de inteligencia de datos
+
+---
+
+# 🚀 Featured Project
+
+## 🎓 Biometric Student Attendance & Access Control System
 
 ### 📋 Student Management
-✔ Register student (name & grade stored in database)  
-✔ Biometric capture (30 facial images per student)  
-✔ Model training for facial recognition  
-✔ View student list (database table)  
-✔ Update / Delete records  
+✔ Register students in database  
+✔ Capture 30 biometric facial images  
+✔ Train recognition model  
+✔ Update/Delete records  
 
 ### 📸 Access Control
-✔ Activate camera system  
-✔ Facial recognition against database  
-✔ Access result:  
-  ✓ If matched → “WELCOME, [Name]”  
-  ✗ If not matched → “Student not registered”  
-✔ Automatic attendance registration in database  
+✔ Activate camera  
+✔ Compare facial data with database  
+✔ Display:
+   - "WELCOME, [Name]"
+   - "Student not registered"  
+✔ Automatic attendance logging  
 
 ### 📊 Attendance History
-✔ Automatic attendance logging  
-✔ Filter by date or student  
-✔ Punctuality control  
-✔ Statistical analysis  
-
-🔹 Technologies Used: Python, Face Recognition, Database Integration, SQL  
-🔹 Architecture Focus: Secure data handling & structured system flow  
+✔ Database-based attendance storage  
+✔ Filter by date/student  
+✔ Punctuality tracking  
+✔ Statistical reporting  
 
 ---
 
-## 📊 GitHub Statistics
+# 🏗 Technical Architecture
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoselin55&show_icons=true&theme=rose_pine&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoselin55&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Professional Mindset
-
-✔ Clean Code  
-✔ Secure by Design  
-✔ Structured Database Thinking  
-✔ Continuous Learning  
-✔ Scalable System Design  
-
----
-
-<div align="center">
-
-Building secure and intelligent systems for the future.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2b64,100:f8cdda&height=100&section=footer"/>
