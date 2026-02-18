@@ -13,10 +13,10 @@
 <a href="https://github.com/yoselin55">
   <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/TUUSUARIO/">
+<a href="https://www.instagram.com/yoss_ffq/">
   <img src="https://img.shields.io/badge/Instagram-ff1493?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:yoselin.flores@tecsup.edu.pe">
   <img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
