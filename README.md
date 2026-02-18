@@ -104,27 +104,9 @@
 
 ## 🎓 Biometric Student Attendance & Access Control System
 
-### 📋 Student Management
-✔ Register students in database  
-✔ Capture 30 biometric facial images  
-✔ Train recognition model  
-✔ Update/Delete records  
-
-### 📸 Access Control
-✔ Activate camera  
-✔ Compare facial data with database  
-✔ Display:
-   - "WELCOME, [Name]"
-   - "Student not registered"  
-✔ Automatic attendance logging  
-
-### 📊 Attendance History
-✔ Database-based attendance storage  
-✔ Filter by date/student  
-✔ Punctuality tracking  
-✔ Statistical reporting  
+Sistema desarrollado con reconocimiento facial para registrar asistencia y controlar accesos.  
+Incluye entrenamiento de modelo, validación contra base de datos MySQL y almacenamiento automático de historial de asistencia con generación de reportes.
 
 ---
 
 # 🏗 Technical Architecture
-
