@@ -104,8 +104,19 @@
 
 ## 🎓 Biometric Student Attendance & Access Control System
 
-Sistema desarrollado con reconocimiento facial para registrar asistencia y controlar accesos.  
-Incluye entrenamiento de modelo, validación contra base de datos MySQL y almacenamiento automático de historial de asistencia con generación de reportes.
+🎓 VisionEdu – Sistema de Asistencia con Reconocimiento Facial
+
+Sistema desarrollado en Java con reconocimiento facial para registrar asistencia y controlar accesos en tiempo real, conectado a MySQL para almacenamiento automático de datos y generación de reportes.
+
+🔥 Lo que lo hace diferente
+
+📸 Captura Biométrica Inteligente (1 foto por alumno) con validación antes de guardar.
+
+🛡️ Detección de gemelos y control anti-duplicidad, evitando registros repetidos o suplantaciones.
+
+🌗 Modo Claro / Modo Oscuro dinámico, adaptable en toda la interfaz, incluyendo el módulo de cámara.
+
+📊 Historial automático con generación de reportes en Excel y PDF.
 
 ---
 
