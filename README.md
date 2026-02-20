@@ -1,109 +1,150 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:1d2b64&height=220&section=header&text=Yoselin%20Fabiola%20Flores&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
-
-## 🛡️ Software Design & Development Student
-### Backend • Database Systems • AI & Computer Vision • Cybersecurity
+  
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&background=1D3557&center=true&vCenter=true&width=500&lines=Yoselin+Fabiola+Flores;Software+Engineer;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </h1>
+  
+  <h3 align="center">
+    <img src="https://img.shields.io/badge/Software_Design-0A192F?style=flat-square&logo=codeigniter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Development-1D3557?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  </h3>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/Location-Peru-1d2b64?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Backend_%26_Architecture-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-28a745?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MySQL_%7C_Oracle-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yoselin-fq-1545033a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yoselin55">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yoselin.flores@tecsup.edu.pe">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/📍_Location-Peru-1D3557?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚀_Open_to-Work-2ECC71?style=flat-square"/>
+</div>
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/yoselin-fq-1545033a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/yoselin55">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:yoselin.flores@tecsup.edu.pe">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+## 👩‍💻 Professional Profile
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" valign="top">
+        <br>
+        <ul>
+          <li>🎓 <b>TECSUP</b> | Software Design & Development</li>
+          <li>🏅 <b>Scholarship recipient</b> – Beca 18</li>
+          <li>💻 <b>Backend Specialist</b> | High-integrity databases</li>
+          <li>🔐 <b>Cybersecurity Mindset</b> | OWASP & Secure Coding</li>
+          <li>🤖 <b>AI & Computer Vision</b> | Biometric Systems</li>
+        </ul>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <a href="https://github.com/yoselin55">
+          <img src="https://github.com/yoselin55.png" width="170px" style="border-radius: 20px; border: 5px solid #1D3557;" alt="Yoselin Flores Profile"/>
+        </a>
+        <br>
+        <kbd><b>Yoselin Fabiola Flores</b></kbd>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🛠️ Technical Stack (Official Icons)
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,js" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,docker" />
+</p>
+
+### 🛠️ IDEs & Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,eclipse,linux,kali,windows,ubuntu" />
+</p>
+
+### 🔧 Frameworks & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,git,postman,figma" />
+</p>
 
 </div>
 
----
+<br>
 
-## 🌸 Professional Profile
+## 🔐 Cybersecurity & AI Focus
 
-🎓 **Student at TECSUP** | Software Design & Development.
-🏅 **Scholarship recipient – Beca 18**.
-💻 **Backend & Systems Specialist** with a focus on high-integrity database management.
-🔐 **Cybersecurity Mindset**: Applying secure coding practices (OWASP) in every project.
-🤖 **AI & Computer Vision**: Implementing biometric systems and intelligent automation.
-🚀 **Goal**: Building scalable, secure, and production-ready enterprise systems.
-
----
-
-# 🛠 Technical Stack
-
-### 💻 Programming Languages & Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,mysql,postgres,linux" />
-</p>
-
-### 🌐 Frontend & UI Design
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
-</p>
-
-### 🖥 Tools & Dev Ops
-<p align="left">
-<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github,docker" />
-</p>
-
----
-
-# 🔐 Cybersecurity & AI Focus
-
-| 🔐 Cybersecurity | 🤖 Artificial Intelligence |
-| :--- | :--- |
-| SQL Injection Prevention & Sanitization | Computer Vision (Facial Recognition) |
-| Role-Based Access Control (RBAC) | LLM Integration & Automation |
-| Input Validation & Data Integrity | Biometric Data Processing |
-| Secure Biometric Authentication | Predictive Data Analytics |
-
----
-
-# 🚀 Featured Project: VisionEdu 🎓
-
-### **Biometric Student Attendance & Access Control System**
-Sistema de nivel empresarial desarrollado en **Java** que integra **Inteligencia Artificial** para la seguridad académica.
-
-* **📸 Biometría Avanzada**: Algoritmos de reconocimiento facial para validación de identidad en tiempo real.
-* **🛡️ Engine Anti-Fraude**: Control de duplicidad y detección de suplantación de identidad.
-* **🌗 UI/UX Dinámica**: Implementación de un `ThemeManager` para cambio de Modo Claro/Oscuro en tiempo real (JavaFX).
-* **📊 Business Intelligence**: Generación automatizada de reportes en **Excel** y **PDF** con filtros avanzados.
-
-
-
-### 🏗 Technical Architecture
-
-| Layer | Technology | Key Responsibility |
-| :--- | :--- | :--- |
-| **Frontend** | JavaFX / CSS3 | Dynamic UI & Real-time camera rendering |
-| **Logic** | Java SE / AI Models | Facial Pattern Recognition & Event Handling |
-| **Storage** | MySQL | Relational data & Attendance logs |
-| **Reporting** | Apache POI / iText | Excel & PDF Professional Exporting |
-| **Security** | SHA-256 / Input Validation | Protecting student data & login credentials |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/yoselin55.png" width="150px" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yoselin55&label=Profile%20Views&color=1d2b64&style=flat" alt="Views" />
-</p>
-
----
 <div align="center">
-  <sub>Built with 💖 by Yoselin Fabiola Flores. © 2026</sub>
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔒 Cybersecurity</h3>
+        <ul>
+          <li>✔️ SQL Injection Prevention</li>
+          <li>✔️ RBAC Systems</li>
+          <li>✔️ Secure Biometrics</li>
+          <li>✔️ Kali Linux Tools</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🤖 Artificial Intelligence</h3>
+        <ul>
+          <li>✔️ Computer Vision</li>
+          <li>✔️ LLM Automation</li>
+          <li>✔️ Pattern Recognition</li>
+          <li>✔️ Machine Learning</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🚀 Featured Project: VisionEdu 🎓
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <th colspan="2" align="center">🏗️ Biometric Attendance System</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Stack</b></td>
+      <td>JavaFX, MySQL, AI Models, SHA-256</td>
+    </tr>
+    <tr>
+      <td><b>Features</b></td>
+      <td>Anti-fraud, Real-time Recognition, Business Intelligence</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoselin55&label=Profile%20Views&color=1D3557&style=flat-square" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <br>
+  <sub>💖 Built with elegance by Yoselin Fabiola Flores © 2026</sub>
 </div>
