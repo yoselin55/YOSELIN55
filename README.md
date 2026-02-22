@@ -107,6 +107,15 @@
 <div align="center">
   <h3>Biometric Student Attendance & Access Control System</h3>
   <p><i>Sistema empresarial con IA para seguridad académica</i></p>
+
+  <a href="https://github.com/yoselin55/VisionEdu_System">
+    <img src="https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yoselin55.github.io/VisionEdu_System/">
+    <img src="https://img.shields.io/badge/🌐_Ver_Demo-1D3557?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+
+  <br><br>
   
   <table border="0">
     <tr>
