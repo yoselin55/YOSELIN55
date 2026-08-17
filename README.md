@@ -1,16 +1,17 @@
 <div align="center">
-  
+
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&background=1D3557&center=true&vCenter=true&width=500&lines=Yoselin+Fabiola+Flores;Software+Engineer;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&background=1D3557&center=true&vCenter=true&width=500&lines=Yoselin+Fabiola+Flores;Software+Engineer;Backend+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </h1>
-  
+
   <h3 align="center">
     <img src="https://img.shields.io/badge/Software_Design-0A192F?style=flat-square&logo=codeigniter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Development-1D3557?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Full_Stack-457B9D?style=flat-square&logo=stackblitz&logoColor=white"/>
   </h3>
-  
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
+
 </div>
 
 <br>
@@ -45,6 +46,7 @@
           <li>🎓 <b>TECSUP</b> | Software Design & Development</li>
           <li>🏅 <b>Scholarship recipient</b> – Beca 18</li>
           <li>💻 <b>Backend Specialist</b> | High-integrity databases</li>
+          <li>🌐 <b>Full Stack Development</b> | Frontend & Backend integration</li>
           <li>🔐 <b>Cybersecurity Mindset</b> | OWASP best practices & secure coding</li>
           <li>🤖 <b>AI & Computer Vision</b> | Biometric systems & intelligent automation</li>
           <li>🚀 <b>Goal</b> | Scalable, secure, production-ready enterprise systems</li>
@@ -70,24 +72,34 @@
 <div align="center">
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🌐 Full Stack Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🛠️ IDEs & Operating Systems
+
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -115,8 +127,8 @@
     <img src="https://img.shields.io/badge/🌐_Ver_Demo-1D3557?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 
-  <br><br>
-  
+<br><br>
+
   <table border="0">
     <tr>
       <th colspan="2" align="center">🏗️ Technical Architecture</th>
@@ -134,9 +146,9 @@
       <td>Apache POI / iText (Business Intelligence)</td>
     </tr>
   </table>
-  
+
   <br>
-  
+
   <h4>✨ Key Features</h4>
   <p>
     <img src="https://img.shields.io/badge/📸_Advanced_Biometrics-1D3557?style=flat-square"/>
